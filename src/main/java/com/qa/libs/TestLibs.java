@@ -7,7 +7,11 @@ public class TestLibs {
 	}
 	
 	public void testlib() {
-		System.out.println("This is test library 2")
+		System.out.println("This is test library 2");
+	}
+	
+	public void testlib2() {
+		System.out.println("This is test library 3");
 	}
 
 }
